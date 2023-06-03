@@ -189,21 +189,6 @@
 			}
 		},
 
-		//Elena sprite change (mark for deletion)
-		{
-			"Action": "EditImage",
-			"Target": "Characters/Elliott",
-			"FromFile": "assets/Elena/ElenaOW.png"
-		},
-
-		//Elena portrait change (mark for deletion)
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Elliott",
-			"FromFile": "assets/Elena/Elena.png",
-			"When": {"Elena's Portrait": "true" }
-		},
-
 		//Elena wedding fix
 		{
 			"Action": "EditImage",

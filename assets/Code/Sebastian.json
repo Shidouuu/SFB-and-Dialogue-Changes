@@ -370,14 +370,6 @@
 			"PatchMode": "Replace"
 		},
 
-		//Portrait (mark for deletion)
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Sebastian",
-			"FromFile": "assets/Sabrina/Sabrina.png",
-			"When": {"Sabrina's Portrait": "true" }
-		},
-
 		//Wedding sprite
 		{
 			"Action": "EditImage",

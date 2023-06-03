@@ -253,22 +253,6 @@
             }
         },
 
-        //Sprite change (mark for deletion)
-        {
-            "Action": "EditImage",
-            "Target": "Characters/Sam",
-            "FromFile": "assets/Sam/SamOW.png",
-            "When": {"DayEvent |contains=wedding": false}
-        },
-
-        //Portrait change (mark for deletion)
-        {
-            "Action": "EditImage",
-            "Target": "Portraits/Sam",
-            "FromFile": "assets/Sam/Sam.png",
-            "When": {"Sam's Portrait": "true" }
-        },
-
         //Sprite change for wedding
         {
             "Action": "EditImage",

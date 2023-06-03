@@ -186,21 +186,6 @@
 			}
 		},
 
-		//Sprite change (mark for deletion)
-		{
-			"Action": "EditImage",
-			"Target": "Characters/Alex",
-			"FromFile": "assets/Alex/AlexOW.png",
-		},
-
-		//Portrait change (mark for deletion)
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Alex",
-			"FromFile": "assets/Alex/Alex.png",
-			"When": {"Alex's Portrait": "true" }
-		},
-
 		//Wedding fix
 		{
 			"Action": "EditImage",

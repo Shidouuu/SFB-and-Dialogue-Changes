@@ -270,20 +270,6 @@
             }
         },
 
-        //OW Sprite (mark for deletion)
-        {
-            "Action": "EditImage",
-            "Target": "Characters/Shane",
-            "FromFile": "assets/Shane/ShaneOW.png",
-        },
-
-        //Work sprite (mark for deletion)
-        {
-            "Action": "EditImage",
-            "Target": "Characters/Shane_JojaMart",
-            "FromFile": "assets/Shane/ShaneJojaOW.png",
-        },
-
         //Changes Shane to female Shane when they put up the joja banner
         {
             "LogName": "Cursors",
@@ -328,14 +314,6 @@
                 "Height": 27
             },
             "PatchMode": "Replace"
-        },
-
-        //Portrait (Mark for deletion)
-        {
-            "Action": "EditImage",
-            "Target": "Portraits/Shane",
-            "FromFile": "assets/Shane/Shane.png",
-            "When": {"Shane's Portrait": "true" }
         },
 
         //Wedding sprite
