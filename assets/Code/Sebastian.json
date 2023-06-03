@@ -342,7 +342,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Characters/Sebastian",
-			"FromFile": "assets/Sabrina/SabrinaOW.png",
+			"FromFile": "assets/Sebastion/SabrinaOW.png", //Only reason why SabrinaOW.png is included
 			"When": {"DayEvent |contains=wedding": false}
 		},
 
@@ -374,7 +374,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Characters/Sebastian",
-			"FromFile": "assets/Sabrina/SabrinaOW_Wedding.png",
+			"FromFile": "assets/Sebastion/SabrinaOW_Wedding.png",
 			"When": {"DayEvent": "wedding"}
 		},	
 	]

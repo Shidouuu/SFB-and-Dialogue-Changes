@@ -1,4 +1,4 @@
-{ // TODO: Change female names to male
+{
 	"Changes": [
 	// Seasonal Cute Characters
 		{
@@ -193,7 +193,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Characters/Elliott",
-			"FromFile": "assets/Elena/ElenaOW_Wedding.png",
+			"FromFile": "assets/Elliot/ElenaOW_Wedding.png",
 			"When": {"DayEvent": "wedding"}
 		},
 	]
