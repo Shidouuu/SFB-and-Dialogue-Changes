@@ -494,7 +494,7 @@
 	{
 		"LogName": "Alex's Changes",
 		"Action": "Include",
-		"FromFile": "assets/Code/Elena.json",
+		"FromFile": "assets/Code/Elliot.json",
 		"When": { "Elena": "true"}
 	},
 
@@ -510,7 +510,7 @@
 	{
 		"LogName": "Sabrina's Changes",
 		"Action": "Include",
-		"FromFile": "assets/Code/Sabrina.json",
+		"FromFile": "assets/Code/Sebastion.json",
 		"When": { "Sabrina": "true"}
 	},
 
