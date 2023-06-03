@@ -190,7 +190,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Characters/Alex",
-			"FromFile": "assets/Alex/AlexOW_Wedding.png",
+			"FromFile": "assets/Characters/Alex/AlexOW_Wedding.png",
 			"When": {"DayEvent": "wedding"}
 		},
 
@@ -200,7 +200,7 @@
 			"LogName": "Women's Locker Change",
 			"Action": "EditMap",
 			"Target": "Maps/BathHouse_WomensLocker",
-			"FromFile": "assets/Alex/BathHouse_WomensLocker.tbin",
+			"FromFile": "assets/Characters/Alex/BathHouse_WomensLocker.tbin",
 			"FromArea": { "X": 16, "Y": 9, "Width": 12, "Height": 9},
 			"ToArea": { "X": 16, "Y": 9, "Width": 12, "Height": 9},
 			"PatchMode": "Replace"
