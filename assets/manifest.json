@@ -1,0 +1,11 @@
+{
+    "Name": "Seasonal Female Bachelors + Invatorzen's Dialogue Changes",
+    "Author": "Shidouuu, Ladyofthelight, Invatorzen, et al.",
+    "Version": "1.0.0",
+    "Description": "Gender bend of male bachelors' portraits and sprites to female with adjusted dialogue.",
+    "UniqueID": "shidouuu.femalebachelorsanddialogue",
+    "UpdateKeys": [ "" ], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
