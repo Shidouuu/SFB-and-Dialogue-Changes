@@ -486,7 +486,7 @@
 	{
 		"LogName": "Alex's Changes",
 		"Action": "Include",
-		"FromFile": "assets/Alex/Alex.json",
+		"FromFile": "assets/Code/Alex.json",
 		"When": { "Female Alex": "true"}
 	},
 
@@ -494,7 +494,7 @@
 	{
 		"LogName": "Alex's Changes",
 		"Action": "Include",
-		"FromFile": "assets/Elliot/Elena.json",
+		"FromFile": "assets/Code/Elena.json",
 		"When": { "Elena": "true"}
 	},
 
@@ -502,7 +502,7 @@
 	{
 		"LogName": "Harriet's Changes",
 		"Action": "Include",
-		"FromFile": "assets/Harriet/Harriet.json",
+		"FromFile": "assets/Harriet/Harriet.json", //Change to Code if Harriet is implemented
 		"When": { "Harriet": "true"}
 	},
 
@@ -510,7 +510,7 @@
 	{
 		"LogName": "Sabrina's Changes",
 		"Action": "Include",
-		"FromFile": "assets/Sebastion/Sabrina.json",
+		"FromFile": "assets/Code/Sabrina.json",
 		"When": { "Sabrina": "true"}
 	},
 
@@ -518,7 +518,7 @@
 	{
 		"LogName": "Sam's Changes",
 		"Action": "Include",
-		"FromFile": "assets/Sam/Sam.json",
+		"FromFile": "assets/Code/Sam.json",
 		"When": { "Female Sam": "true"}
 	},
 
@@ -526,7 +526,7 @@
 	{
 		"LogName": "Shane's Changes",
 		"Action": "Include",
-		"FromFile": "assets/Shane/Shane.json",
+		"FromFile": "assets/Code/Shane.json",
 		"When": { "Female Shane": "true"}
 	},
 
