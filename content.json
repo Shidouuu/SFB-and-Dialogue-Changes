@@ -1,7 +1,7 @@
 // I dont know what I'm doing
 // This is all guess work
 // ^^Original message by Poltergeister. Not very encouraging! -Shidouuu
-
+// TODO: Change female names to male
 {
     "Format": "1.28.0",
     "DynamicTokens": [
@@ -218,7 +218,7 @@
 			"Default": "True",
 		},
 
-		
+
 		// Invatorzen's Dialogue Changes Config
 		//Turns on female Alex
 		"Female Alex": {
@@ -241,6 +241,13 @@
 			"Section": "Harriet",
 			"Description": "Changes the dialogue to refer to Harvey as a girl named Harriet."
 			},
+		//Turns on Harriet's Portrait (to be removed if seasonal Harriet is implemented)
+		"Harriet's Portrait": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"Section": "Harriet",
+			"Description": "Changes Harvey's portrait into Harriet's. (Requires \"Harriet\" to be on!)"
+			},  
 		//Turns on Sabrina
 		"Sabrina": {
 			"AllowValues": "true, false",
